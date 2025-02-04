@@ -1,4 +1,3 @@
-# sample10
-this is my first ops lab
+# OPS-BCA-C
 <br>
-created a repo
+Sample Ops REPO
